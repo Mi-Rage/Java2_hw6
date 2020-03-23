@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29b4304b-f53d-46e1-8b42-df84956ca84a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcsMGicP896tt7xUI8NymAiQH0" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java2/Java2_hw6" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.gb.jt.network" />
+      <recent name="ru.gb.jt.chat.server.gui" />
+      <recent name="ru.gb.jt.chat.server.core" />
+      <recent name="ru.gb.jt.chat.client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ru/gb/jtwo/le/home" />
+      <recent name="$PROJECT_DIR$/src/ru/gb/jtwo/lb/online/engines/bricks" />
+      <recent name="$PROJECT_DIR$/src/ru/gb/jtwo/lb/online/engines/circles" />
+      <recent name="$PROJECT_DIR$/src/ru/gb/jtwo/lb/online/engines/common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientGUI">
+    <configuration name="ClientGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.jt.chat.client.ClientGUI" />
+      <module name="chat-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.jt.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.jtwo.lf.online.EchoServer" />
+      <module name="J2_Stream200303" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.jtwo.lf.online.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.jtwo.le.home.Main" />
+      <module name="J2_Stream200303" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.jtwo.le.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerGUI (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.jt.chat.server.gui.ServerGUI" />
+      <module name="chat-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.jt.chat.server.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.jtwo.lf.online.SimpleClient" />
+      <module name="J2_Stream200303" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.jtwo.lf.online.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientGUI" />
+        <item itemvalue="Application.ServerGUI (1)" />
+        <item itemvalue="Application.SimpleClient" />
+        <item itemvalue="Application.EchoServer" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29b4304b-f53d-46e1-8b42-df84956ca84a" name="Default Changelist" comment="" />
+      <created>1583253166560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583253166560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="245" y="210" key="#Project_Structure" timestamp="1584724733472">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="245" y="210" key="#Project_Structure/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584724733472" />
+    <state x="114" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583517305989">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="114" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1583517305989" />
+    <state x="479" y="252" key="#com.intellij.ide.util.MemberChooser" timestamp="1584733125693">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="479" y="252" key="#com.intellij.ide.util.MemberChooser/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584733125693" />
+    <state x="382" y="335" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584724627975">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="382" y="335" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584724627975" />
+    <state x="411" y="411" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584729888551">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="411" y="411" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584729888551" />
+    <state x="328" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583516511064">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="328" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1583516511064" />
+    <state x="388" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583516938646">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="388" y="296" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1583516938646" />
+    <state x="717" y="195" key="FileChooserDialogImpl" timestamp="1584960159355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="717" y="195" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584960159355" />
+    <state width="1078" height="195" key="GridCell.Tab.0.bottom" timestamp="1584960160546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1078" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584960160546" />
+    <state width="1248" height="152" key="GridCell.Tab.0.bottom/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584734158976" />
+    <state width="1248" height="312" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1583766277599" />
+    <state width="1078" height="195" key="GridCell.Tab.0.center" timestamp="1584960160546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1078" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584960160546" />
+    <state width="1248" height="152" key="GridCell.Tab.0.center/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584734158973" />
+    <state width="1248" height="312" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1583766277598" />
+    <state width="1078" height="195" key="GridCell.Tab.0.left" timestamp="1584960160546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1078" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584960160546" />
+    <state width="1248" height="152" key="GridCell.Tab.0.left/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584734158973" />
+    <state width="1248" height="312" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1583766277597" />
+    <state width="1078" height="195" key="GridCell.Tab.0.right" timestamp="1584960160546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1078" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584960160546" />
+    <state width="1248" height="152" key="GridCell.Tab.0.right/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584734158974" />
+    <state width="1248" height="312" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1583766277598" />
+    <state width="1248" height="298" key="GridCell.Tab.1.bottom" timestamp="1584734133503">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1248" height="298" key="GridCell.Tab.1.bottom/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584734133503" />
+    <state width="1248" height="298" key="GridCell.Tab.1.center" timestamp="1584734133502">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1248" height="298" key="GridCell.Tab.1.center/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584734133502" />
+    <state width="1248" height="298" key="GridCell.Tab.1.left" timestamp="1584734133501">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1248" height="298" key="GridCell.Tab.1.left/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584734133501" />
+    <state width="1248" height="298" key="GridCell.Tab.1.right" timestamp="1584734133502">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1248" height="298" key="GridCell.Tab.1.right/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584734133502" />
+    <state x="133" y="126" key="SettingsEditor" timestamp="1584724766751">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="133" y="126" key="SettingsEditor/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584724766751" />
+    <state x="388" y="302" key="extract.method.dialog" timestamp="1584470888160">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="388" y="302" key="extract.method.dialog/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584470888160" />
+    <state x="22" y="167" key="new project wizard" timestamp="1584724113292">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="22" y="167" key="new project wizard/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584724113292" />
+    <state x="315" y="285" width="670" height="676" key="search.everywhere.popup" timestamp="1584467529550">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="315" y="285" width="670" height="676" key="search.everywhere.popup/0.23.1680.978/1680.23.1920.1057@0.23.1680.978" timestamp="1584467529550" />
+  </component>
+</project>
